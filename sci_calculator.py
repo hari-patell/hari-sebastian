@@ -7,6 +7,7 @@ sum_calculations = 0.0
 user_operation = 0
 stop_code = 0
 menu= True
+print("Hello World")
 #as long as the operation selected isn't 0, the code will continue to show the menu
 while menu:
     print('Calculator Menu\n---------------\n0. Exit Program\n1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n5. Exponentiation\n6. Logarithm\n7. Display Average')
